@@ -1,9 +1,9 @@
 [submodule "dslr"]
 	path = dslr
-	url = git@github.com:STC71/42_dslr.git
+	url = https://github.com/STC71/42_dslr.git
 [submodule "ft_linear_regression"]
 	path = ft_linear_regression
-	url = git@github.com:STC71/42_ft_linear_regression.git
+	url = https://github.com/STC71/42_ft_linear_regression.git
 [submodule "multilayer-perceptron"]
 	path = multilayer-perceptron
-	url = git@github.com:STC71/42_multilayer-perceptron.git
+	url = https://github.com/STC71/42_multilayer-perceptron.git
