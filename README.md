@@ -61,6 +61,6 @@ Cada proyecto profundiza en conceptos matemáticos, algorítmicos y de implement
 
 <div align="center">
 
-[⬅️ Volver al repositorio principal](../)
+[⬅️ Volver al repositorio principal](../README.md)
 
 </div>
